@@ -1,0 +1,2 @@
+dclass ArticlesController < ApplicationController
+end
